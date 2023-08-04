@@ -1,0 +1,44 @@
+
+[
+    {
+        "kprice": "325,000,000:کارخانه ",
+        "bprice": "425,000,000:بازار",
+        "name": "تندر ال 90",
+        "year": "",
+        "con": "",
+        "motor": "",
+        "breath": "",
+        "diffrential": "",
+        "acceleration": "",
+        "vol": "",
+        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/t.png"
+    },
+    {
+        "kprice": "500,000,000:کارخانه",
+        "bprice": "600,000,000:بازار",
+        "name": "رانا",
+        "year": "",
+        "con": "",
+        "motor": "",
+        "breath": "",
+        "diffrential": "",
+        "acceleration": "",
+        "vol": "",
+        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/r.png"
+
+    },
+    {
+        "kprice": "450,000,000:کارخانه",
+        "bprice": "550,000,000:بازار",
+        "name": "پژو پارس",
+        "year": "",
+        "con": "",
+        "motor": "",
+        "breath": "",
+        "diffrential": "",
+        "acceleration": "",
+        "vol": "",
+        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/p.png"
+
+    }
+]
