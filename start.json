@@ -11,7 +11,9 @@
         "diffrential": "",
         "acceleration": "",
         "vol": "",
-        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/t.png"
+        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/t.png",
+        "oil":""
+
     },
     {
         "kprice": "500,000,000:کارخانه",
@@ -24,7 +26,8 @@
         "diffrential": "",
         "acceleration": "",
         "vol": "",
-        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/r.png"
+        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/r.png",
+        "oil":""
 
     },
     {
@@ -38,7 +41,207 @@
         "diffrential": "",
         "acceleration": "",
         "vol": "",
-        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/p.png"
+        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/p.png",
+        "oil":""
+
+
+    },{
+        "kprice": "0:کارخانه",
+        "bprice": "290,000,000~135,000,000:بازار",
+        "name": "پراید 111",
+        "year": "1399:سال ساخت",
+        "con": "کشور تولید کننده :ایران",
+        "motor": "حجم موتور :1323 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "14.5 ثانیه",
+        "vol": "حجم باک :40 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/111.png",
+        "oil":"مصرف سوخت : 6.4 لیتر در 100 کیلومتر"
+
+    },
+    {
+        "kprice": "0:کارخانه",
+        "bprice": "270,000,000~130,000,000:بازار",
+        "name": "پراید 131",
+        "year": "1389:سال ساخت",
+        "con": "کشور تولید کننده :ایران",
+        "motor": "حجم موتور :1323 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "14.5 ثانیه",
+        "vol": "حجم باک :40 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/131.png",
+        "oil":"مصرف سوخت : 6.4 لیتر در 100 کیلومتر"
+
+    },   {
+        "kprice": "0:کارخانه",
+        "bprice": "260,000,000~120,000,000:بازار",
+        "name": "پراید 132",
+        "year": "1389:سال ساخت",
+        "con": "کشور تولید کننده :ایران",
+        "motor": "حجم موتور :1323 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "14.5 ثانیه",
+        "vol": "حجم باک :40 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/132.png",
+        "oil":"مصرف سوخت : 6.4 لیتر در 100 کیلومتر"
+
+    },  {
+        "kprice": "218,029,000:کارخانه",
+        "bprice": "270,000,000:بازار",
+        "name": "پراید 151",
+        "year": "1393:سال ساخت",
+        "con": "کشور تولید کننده :ایران",
+        "motor": "حجم موتور :1323 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "14.5 ثانیه",
+        "vol": "حجم باک :40 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/151.png",
+        "oil":"مصرف سوخت :6.6 لیتر در 100 کیلومتر"
+
+    }, {
+        "kprice": "0:کارخانه",
+        "bprice": "355,000,000:بازار",
+        "name": "تیبا",
+        "year": "1393:سال ساخت",
+        "con": "کشور تولید کننده :ایران",
+        "motor": "حجم موتور :1503 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "13.5 ثانیه",
+        "vol": "حجم باک :41 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/tiba%20san.png",
+        "oil":"مصرف سوخت :7.1 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+        "bprice": "361,000,000:بازار",
+        "name": "2تیبا",
+        "year": "1393:سال ساخت",
+        "con": "کشور تولید کننده :ایران",
+        "motor": "حجم موتور :1503 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "13 ثانیه",
+        "vol": "حجم باک :41 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/tiba.png",
+        "oil":"مصرف سوخت :6.53 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+        "bprice": "290,000,000:بازار",
+        "name": "تیبا2پلاس",
+        "year": "1398:سال ساخت",
+        "con": "کشور تولید کننده :ایران",
+        "motor": "حجم موتور :1503 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "13.5 ثانیه",
+        "vol": "حجم باک :41 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/tiba2%2B.png",
+        "oil":"مصرف سوخت :6.53 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+        "bprice": "320,000,000:بازار",
+        "name": "ساینا دنده ای",
+        "year": "1395:سال ساخت",
+        "con": "کشور تولید کننده :ایران",
+        "motor": "حجم موتور :1503 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "12.8 ثانیه",
+        "vol": "حجم باک :41 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/sinaex.png",
+        "oil":"مصرف سوخت :7 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "251,262,000:کارخانه",
+        "bprice": "338,000,000:بازار",
+        "name": "کوییک دنده ای",
+        "year": "1396:سال ساخت",
+        "con": "کشور تولید کننده :ایران",
+        "motor": "حجم موتور :1503 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "- ثانیه",
+        "vol": "حجم باک :41 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/qu.png",
+        "oil":"مصرف سوخت :7.2 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "545,000,000:کارخانه",
+        "bprice": "592,000,000:بازار",
+        "name": "وانت زامیاد دوگانه سوز",
+        "year": "1396:سال ساخت",
+        "con": "کشور تولید کننده :ایران",
+        "motor": "حجم موتور :2400 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "- ثانیه",
+        "vol": "حجم باک :45 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/want.png",
+        "oil":"مصرف سوخت :9 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+        "bprice": " 800,000,000~440,000,000:بازار",
+        "name": "آریو زوتی",
+        "year": "2012:سال ساخت",
+        "con": "کشور تولید کننده : چین",
+        "motor": "حجم موتور :1600  سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "12.5 ثانیه",
+        "vol": "حجم باک :55 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/ario.png",
+        "oil":"مصرف سوخت :6.54 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "940,000,000~630,000,000:بازار",
+        "name": "CS35 چانگان ",
+        "year": "2012:سال ساخت",
+        "con": "کشور تولید کننده : چین",
+        "motor": "حجم موتور :1600  سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "15 ثانیه",
+        "vol": "حجم باک :52 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/chang.png",
+        "oil":"مصرف سوخت :7.2 لیتر در 100 کیلومتر"
+
+    },
+    {
+        "kprice": "0:کارخانه",
+    "bprice": "1,350,000,000~820,000,000:بازار",
+        "name": "کیا سراتو 2009",
+        "year": "2000:سال ساخت",
+        "con": "کشور تولید کننده :کره جنوبی",
+        "motor": "حجم موتور :2000  سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "10.5 ثانیه",
+        "vol": "حجم باک :52 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/kia.png",
+        "oil":"مصرف سوخت :7.1 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "1,960,000~1,470,000:بازار",
+        "name": "C3 سیتروئن ",
+        "year": "2016:سال ساخت",
+        "con": "کشور تولید کننده :فرانسه",
+        "motor": "حجم موتور :1598  سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "8.5 ثانیه",
+        "vol": "حجم باک :45 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/cet.png",
+        "oil":"مصرف سوخت :6.7 لیتر در 100 کیلومتر"
 
     }
 ]
