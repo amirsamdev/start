@@ -1,51 +1,6 @@
 
 [
-    {
-        "kprice": "325,000,000:کارخانه ",
-        "bprice": "425,000,000:بازار",
-        "name": " تندر ال 90",
-        "year": "",
-        "con": "",
-        "motor": "",
-        "breath": "",
-        "diffrential": "",
-        "acceleration": "",
-        "vol": "",
-        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/t.png",
-        "oil":""
-
-    },
-    {
-        "kprice": "500,000,000:کارخانه",
-        "bprice": "600,000,000:بازار",
-        "name": "رانا",
-        "year": "",
-        "con": "",
-        "motor": "",
-        "breath": "",
-        "diffrential": "",
-        "acceleration": "",
-        "vol": "",
-        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/r.png",
-        "oil":""
-
-    },
-    {
-        "kprice": "450,000,000:کارخانه",
-        "bprice": "550,000,000:بازار",
-        "name": "پژو پارس",
-        "year": "",
-        "con": "",
-        "motor": "",
-        "breath": "",
-        "diffrential": "",
-        "acceleration": "",
-        "vol": "",
-        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/p.png",
-        "oil":""
-
-
-    },{
+   {
         "kprice": "0:کارخانه",
         "bprice": "290,000,000~135,000,000:بازار",
         "name": "پراید 111",
@@ -173,9 +128,9 @@
         "oil":"مصرف سوخت :7.2 لیتر در 100 کیلومتر"
 
     },{
-        "kprice": "545,000,000:کارخانه",
-        "bprice": "592,000,000:بازار",
-        "name": " زامیاد دوگانه ",
+        "kprice": "565,000,000:کارخانه",
+        "bprice": "607,000,000:بازار",
+        "name": "وانت زامیاد دوگانه سوز",
         "year": "1396:سال ساخت",
         "con": "کشور تولید کننده :ایران",
         "motor": "حجم موتور :2400 سی سی",
@@ -231,7 +186,7 @@
 
     },{
         "kprice": "0:کارخانه",
-    "bprice": "1,960,000~1,470,000:بازار",
+    "bprice": "1,960,000,000~1,470,000,000:بازار",
         "name": "C3 سیتروئن ",
         "year": "2016:سال ساخت",
         "con": "کشور تولید کننده :فرانسه",
@@ -242,6 +197,300 @@
         "vol": "حجم باک :45 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/cet.png",
         "oil":"مصرف سوخت :6.7 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "500,000,000~240,000,000:بازار",
+        "name": " ELX سمند سورن ",
+        "year": "1384:سال ساخت",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1650 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "12 ثانیه",
+        "vol": "حجم باک :66 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/elx.png",
+        "oil":"مصرف سوخت :7.49 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "490,000,000~330,000,000:بازار",
+        "name": "توربو elx سورن ", 
+        "year": "1397:سال ساخت",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1650 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "10 ثانیه",
+        "vol": "حجم باک :66 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/elx.png",
+        "oil":"مصرف سوخت :7.3 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "206,216,000:بازار",
+        "name": "دنا (تیپ 1)", 
+        "year": "1393:سال ساخت",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1646 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "13.5 ثانیه",
+        "vol": "حجم باک :60 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/dena.png",
+        "oil":"مصرف سوخت :7.74 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "545,100,000:کارخانه",
+    "bprice": "830,000,000:بازار",
+        "name": "دنا پلاس ساده", 
+        "year": "1398:سال ساخت",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1649 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "13.5 ثانیه",
+        "vol": "حجم باک :60 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/dena%2B.png",
+        "oil":"مصرف سوخت :7.94 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "482,000,000:کارخانه",
+    "bprice": "757,000,000:بازار",
+        "name": "دنا پلاس توربو ۶ دنده دستی", 
+        "year": "1391:سال ساخت",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1650 سی سی",
+        "breath": "تنفس موتور : توربوشارژ ",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "10 ثانیه",
+        "vol": "حجم باک :60 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/dena%2Btu.png",
+        "oil":"مصرف سوخت :7.3 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "545,100,000:کارخانه",
+    "bprice": "830,000,000:بازار",
+        "name": "دنا پلاس توربو اتو", 
+        "year": "1399:سال ساخت",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1650 سی سی",
+        "breath": "تنفس موتور : توربوشارژ",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "9.5 ثانیه",
+        "vol": "حجم باک :60 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/dena%2Btu.png",
+        "oil":"مصرف سوخت :8.1 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "420,000,000~130,000,000:بازار",
+        "name": "GLX پژو 405 ", 
+        "year": "1387:سال ساخت",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1761 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "11 ثانیه",
+        "vol": "حجم باک :70 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/glx405.png",
+        "oil":"مصرف سوخت :9 لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "420,000,000~130,000,000:بازار",
+        "name": "دو گانه سوز GLX پژو 405 ", 
+        "year": "1387:سال ساخت",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1761 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "11 ثانیه",
+        "vol": "حجم باک :70 (بنزین), 75 (گاز)",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/glx405.png",
+        "oil":"مصرف سوخت:9.1 (بنزين) , 31.3 (گاز)"
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "520,000,000~200,000,000:بازار",
+        "name": "دو گانه سوز GLX پژو 405 ", 
+        "year": "1387:سال ساخت",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1587  سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "13.2 ثانیه",
+        "vol": " حجم باک :70 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/405slx.png",
+        "oil":"مصرف سوخت: 7.5 ترکیبی لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "260,214,000:کارخانه",
+    "bprice": "510,000,000:بازار",
+        "name": "پژو پارس", 
+        "year": "1380:سال ساخت",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1761  سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "14.2 ثانیه",
+        "vol": " حجم باک :70 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/pejpars.png",
+        "oil":"مصرف سوخت: 9.2 ترکیبی لیتر در 100 کیلومتر"
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "470,000,000:بازار",
+        "name": "پژو پارس دوگانه سوز", 
+        "year": "1386:سال ساخت",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1761   سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "13.2 ثانیه",
+        "vol": " حجم باک :66 (بنزين)-75 (گاز) لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/pejpars.png",
+        "oil":"مصرف سوخت:9.1 (بنزين)، 31.3 (گاز) لیتر در صد کیلومتر "
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "610,000,000~240,000,000:بازار",
+        "name": "پژو پارس اتوماتیک", 
+        "year": "1378:سال طراحی",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1587   سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "13.2 ثانیه",
+        "vol": " حجم باک :66 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/pejpars.png",
+        "oil":"مصرف سوخت:8.15 لیتر در صد کیلومتر "
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "610,000,000~240,000,000:بازار",
+        "name": "پژو پارس اتوماتیک", 
+        "year": "1378:سال طراحی",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1587   سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "13.2 ثانیه",
+        "vol": " حجم باک :66 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/pejpars.png",
+        "oil":"مصرف سوخت:8.15 لیتر در صد کیلومتر "
+
+    },{
+        "kprice": "348,862,000:کارخانه",
+    "bprice": "530,000,000:بازار",
+        "name": "پژو 207 تیپ 5", 
+        "year": "1389:سال طراحی",
+        "con": "کشور تولید کننده:ایران",
+        "motor": " حجم موتور :1587 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "11.6 ثانیه",
+        "vol": " حجم باک :50 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/207.png",
+        "oil":"مصرف سوخت:6.6 لیتر در صد کیلومتر "
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "650,000,000~490,000,000:بازار",
+        "name": "پژو 207 صندوقدار", 
+        "year": "1396:سال طراحی",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور : 1587 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "13.6 ثانیه",
+        "vol": " حجم باک :50 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/207sa.png",
+        "oil":"مصرف سوخت:7.1 لیتر در صد کیلومتر "
+
+    },{
+        "kprice": "343,725,000 :کارخانه",
+    "bprice": "670,000,000:بازار",
+        "name": "پژو 207 پانورما", 
+        "year": "1389:سال طراحی",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور :1587 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "12.6 ثانیه",
+        "vol": " حجم باک :50 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/207.png",
+        "oil":"مصرف سوخت:7.1 لیتر در صد کیلومتر "
+
+    },{
+        "kprice": "214,870,000 :کارخانه",
+    "bprice": "513,000,000:بازار",
+        "name": "پژو 206 تیپ 2", 
+        "year": "-:سال طراحی",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور : 1360 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "14.1 ثانیه",
+        "vol": " حجم باک :50 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/206.png",
+        "oil":"مصرف سوخت:6.4 لیتر در صد کیلومتر "
+
+    },{
+        "kprice": "343,725,000 :کارخانه",
+    "bprice": "670,000,000:بازار",
+        "name": "پژو 206 تیپ 5", 
+        "year": "1389:سال طراحی",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور : 1587 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "11.6 ثانیه",
+        "vol": " حجم باک :50 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/207.png",
+        "oil":"مصرف سوخت:6.6 لیتر در صد کیلومتر "
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "440,000,000~240,000,000:بازار",
+        "name": "پژو 206 صندوقدار", 
+        "year": "-:سال طراحی",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور : 1587 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "12.6 ثانیه",
+        "vol": " حجم باک :50 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/206sa.png",
+        "oil":"مصرف سوخت:7.3 لیتر در صد کیلومتر "
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "1,630,000,000~1,270,000,000:بازار",
+        "name": "پژو 301", 
+        "year": "-:سال طراحی",
+        "con": "کشور تولید کننده:ایران",
+        "motor": "حجم موتور : 1587 سی سی",
+        "breath": "تنفس موتور : طبیعی",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "12.1 ثانیه",
+        "vol": " حجم باک :50 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/301_prev_ui.png",
+        "oil":"مصرف سوخت:6.6 لیتر در صد کیلومتر "
+
+    },{
+        "kprice": "0:کارخانه",
+    "bprice": "2,020,000,000~1,160,000,000:بازار",
+        "name": "پژو 2008", 
+        "year": "-:سال طراحی",
+        "con": "کشور تولید کننده :فرانسه",
+        "motor": "حجم موتور : 1600 سی سی",
+        "breath": "تنفس موتور : توربوشارژ ",
+        "diffrential": "دیفرانسیل :جلو",
+        "acceleration": "8.2 ثانیه",
+        "vol": " حجم باک :50 لیتر",
+        "img":"https://raw.githubusercontent.com/amirsamdev/start/main/download%20(27)_prev_ui.png",
+        "oil":"مصرف سوخت:6.7 لیتر در صد کیلومتر "
 
     }
 ]
