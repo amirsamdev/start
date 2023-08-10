@@ -12,8 +12,8 @@
         "acceleration": "14.5 ثانیه",
         "vol": "حجم باک :40 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/111.png",
-        "oil":"مصرف سوخت : 6.4 لیتر در 100 کیلومتر"
-
+        "oil":"مصرف سوخت : 6.4 لیتر در 100 کیلومتر",
+"show" : true
     },
     {
         "kprice": "0:کارخانه",
