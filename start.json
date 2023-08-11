@@ -27,7 +27,8 @@
         "acceleration": "14.5 ثانیه",
         "vol": "حجم باک :40 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/131.png",
-        "oil":"مصرف سوخت : 6.4 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت : 6.4 لیتر در 100 کیلومتر",
+        "show" : true
 
     },   {
         "kprice": "0:کارخانه",
@@ -41,7 +42,8 @@
         "acceleration": "14.5 ثانیه",
         "vol": "حجم باک :40 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/132.png",
-        "oil":"مصرف سوخت : 6.4 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت : 6.4 لیتر در 100 کیلومتر","show" : true
+
 
     },  {
         "kprice": "218,029,000:کارخانه",
@@ -55,7 +57,8 @@
         "acceleration": "14.5 ثانیه",
         "vol": "حجم باک :40 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/151.png",
-        "oil":"مصرف سوخت :6.6 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :6.6 لیتر در 100 کیلومتر","show" : true
+
 
     }, {
         "kprice": "0:کارخانه",
@@ -69,7 +72,7 @@
         "acceleration": "13.5 ثانیه",
         "vol": "حجم باک :41 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/tiba%20san.png",
-        "oil":"مصرف سوخت :7.1 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :7.1 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -83,7 +86,7 @@
         "acceleration": "13 ثانیه",
         "vol": "حجم باک :41 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/tiba.png",
-        "oil":"مصرف سوخت :6.53 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :6.53 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -97,7 +100,7 @@
         "acceleration": "13.5 ثانیه",
         "vol": "حجم باک :41 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/tiba2%2B.png",
-        "oil":"مصرف سوخت :6.53 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :6.53 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -111,7 +114,7 @@
         "acceleration": "12.8 ثانیه",
         "vol": "حجم باک :41 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/sinaex.png",
-        "oil":"مصرف سوخت :7 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :7 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "251,262,000:کارخانه",
@@ -125,7 +128,7 @@
         "acceleration": "- ثانیه",
         "vol": "حجم باک :41 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/qu.png",
-        "oil":"مصرف سوخت :7.2 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :7.2 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "565,000,000:کارخانه",
@@ -139,7 +142,7 @@
         "acceleration": "- ثانیه",
         "vol": "حجم باک :45 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/want.png",
-        "oil":"مصرف سوخت :9 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :9 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -153,7 +156,7 @@
         "acceleration": "12.5 ثانیه",
         "vol": "حجم باک :55 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/ario.png",
-        "oil":"مصرف سوخت :6.54 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :6.54 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -167,7 +170,7 @@
         "acceleration": "15 ثانیه",
         "vol": "حجم باک :52 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/chang.png",
-        "oil":"مصرف سوخت :7.2 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :7.2 لیتر در 100 کیلومتر","show" : true
 
     },
     {
@@ -182,7 +185,7 @@
         "acceleration": "10.5 ثانیه",
         "vol": "حجم باک :52 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/kia.png",
-        "oil":"مصرف سوخت :7.1 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :7.1 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -196,7 +199,7 @@
         "acceleration": "8.5 ثانیه",
         "vol": "حجم باک :45 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/cet.png",
-        "oil":"مصرف سوخت :6.7 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :6.7 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -210,7 +213,7 @@
         "acceleration": "12 ثانیه",
         "vol": "حجم باک :66 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/elx.png",
-        "oil":"مصرف سوخت :7.49 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :7.49 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -224,7 +227,7 @@
         "acceleration": "10 ثانیه",
         "vol": "حجم باک :66 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/elx.png",
-        "oil":"مصرف سوخت :7.3 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :7.3 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -238,7 +241,7 @@
         "acceleration": "13.5 ثانیه",
         "vol": "حجم باک :60 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/dena.png",
-        "oil":"مصرف سوخت :7.74 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :7.74 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "545,100,000:کارخانه",
@@ -252,7 +255,7 @@
         "acceleration": "13.5 ثانیه",
         "vol": "حجم باک :60 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/dena%2B.png",
-        "oil":"مصرف سوخت :7.94 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :7.94 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "482,000,000:کارخانه",
@@ -266,7 +269,7 @@
         "acceleration": "10 ثانیه",
         "vol": "حجم باک :60 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/dena%2Btu.png",
-        "oil":"مصرف سوخت :7.3 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :7.3 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "545,100,000:کارخانه",
@@ -280,7 +283,7 @@
         "acceleration": "9.5 ثانیه",
         "vol": "حجم باک :60 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/dena%2Btu.png",
-        "oil":"مصرف سوخت :8.1 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :8.1 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -294,7 +297,7 @@
         "acceleration": "11 ثانیه",
         "vol": "حجم باک :70 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/glx405.png",
-        "oil":"مصرف سوخت :9 لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت :9 لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -308,7 +311,7 @@
         "acceleration": "11 ثانیه",
         "vol": "حجم باک :70 (بنزین), 75 (گاز)",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/glx405.png",
-        "oil":"مصرف سوخت:9.1 (بنزين) , 31.3 (گاز)"
+        "oil":"مصرف سوخت:9.1 (بنزين) , 31.3 (گاز)","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -322,7 +325,7 @@
         "acceleration": "13.2 ثانیه",
         "vol": " حجم باک :70 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/405slx.png",
-        "oil":"مصرف سوخت: 7.5 ترکیبی لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت: 7.5 ترکیبی لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "260,214,000:کارخانه",
@@ -336,7 +339,7 @@
         "acceleration": "14.2 ثانیه",
         "vol": " حجم باک :70 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/pejpars.png",
-        "oil":"مصرف سوخت: 9.2 ترکیبی لیتر در 100 کیلومتر"
+        "oil":"مصرف سوخت: 9.2 ترکیبی لیتر در 100 کیلومتر","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -350,7 +353,7 @@
         "acceleration": "13.2 ثانیه",
         "vol": " حجم باک :66 (بنزين)-75 (گاز) لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/pejpars.png",
-        "oil":"مصرف سوخت:9.1 (بنزين)، 31.3 (گاز) لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:9.1 (بنزين)، 31.3 (گاز) لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -364,7 +367,7 @@
         "acceleration": "13.2 ثانیه",
         "vol": " حجم باک :66 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/pejpars.png",
-        "oil":"مصرف سوخت:8.15 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:8.15 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -378,7 +381,7 @@
         "acceleration": "13.2 ثانیه",
         "vol": " حجم باک :66 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/pejpars.png",
-        "oil":"مصرف سوخت:8.15 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:8.15 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "348,862,000:کارخانه",
@@ -392,7 +395,7 @@
         "acceleration": "11.6 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/207.png",
-        "oil":"مصرف سوخت:6.6 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:6.6 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -406,7 +409,7 @@
         "acceleration": "13.6 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/207sa.png",
-        "oil":"مصرف سوخت:7.1 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:7.1 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "343,725,000 :کارخانه",
@@ -421,7 +424,7 @@
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/207.png",
         "oil":"مصرف سوخت:7.1 لیتر در صد کیلومتر "
-
+        ,"show" : true
     },{
         "kprice": "214,870,000 :کارخانه",
     "bprice": "513,000,000:بازار",
@@ -435,7 +438,7 @@
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/206.png",
         "oil":"مصرف سوخت:6.4 لیتر در صد کیلومتر "
-
+        ,"show" : true
     },{
         "kprice": "343,725,000 :کارخانه",
     "bprice": "670,000,000:بازار",
@@ -448,7 +451,7 @@
         "acceleration": "11.6 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/207.png",
-        "oil":"مصرف سوخت:6.6 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:6.6 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -462,7 +465,7 @@
         "acceleration": "12.6 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/206sa.png",
-        "oil":"مصرف سوخت:7.3 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:7.3 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -476,7 +479,7 @@
         "acceleration": "12.1 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/301_prev_ui.png",
-        "oil":"مصرف سوخت:6.6 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:6.6 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -490,7 +493,7 @@
         "acceleration": "8.2 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/download%20(27)_prev_ui.png",
-        "oil":"مصرف سوخت:6.7 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:6.7 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -504,7 +507,7 @@
         "acceleration": "8.9 ثانیه",
         "vol": " حجم باک :72 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/508.png",
-        "oil":"مصرف سوخت:6.9 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:6.9 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "322,235,000:کارخانه",
@@ -532,7 +535,7 @@
         "acceleration": "12.5 ثانیه",
         "vol": " حجم باک :51 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/dang%20(1).png",
-        "oil":"مصرف سوخت:7.04 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:7.04 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -546,7 +549,7 @@
         "acceleration": "12.5 ثانیه",
         "vol": " حجم باک :51 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/dang30.png",
-        "oil":"مصرف سوخت:7.04 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:7.04 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -560,7 +563,7 @@
         "acceleration": "10.1 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/pickup.png",
-        "oil":"مصرف سوخت:7.6 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:7.6 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -574,7 +577,7 @@
         "acceleration": "10.2 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/tondare2.png",
-        "oil":"مصرف سوخت:6.9 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:6.9 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -588,7 +591,7 @@
         "acceleration": "11.7 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/tondare2.png",
-        "oil":"مصرف سوخت:8.3 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:8.3 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "-:کارخانه",
@@ -602,7 +605,7 @@
         "acceleration": "10 ثانیه",
         "vol": " حجم باک :60 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/S5.png",
-        "oil":"مصرف سوخت:8 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:8 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "-:کارخانه",
@@ -616,7 +619,7 @@
         "acceleration": "12.9 ثانیه",
         "vol": " حجم باک :60 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/S5.png",
-        "oil":"مصرف سوخت:8 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:8 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "920,000,000:کارخانه",
@@ -630,7 +633,7 @@
         "acceleration": "12.9 ثانیه",
         "vol": " حجم باک :61 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/S7.png",
-        "oil":"مصرف سوخت:9.6 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:9.6 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "1,007,000,000:کارخانه",
@@ -644,7 +647,7 @@
         "acceleration": "12.9 ثانیه",
         "vol": " حجم باک :61 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/S7.png",
-        "oil":"مصرف سوخت:8.34 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:8.34 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -658,7 +661,7 @@
         "acceleration": "18ثانیه",
         "vol": " حجم باک :76 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/fotony.png",
-        "oil":"مصرف سوخت:9.01 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:9.01 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -672,7 +675,7 @@
         "acceleration": "18ثانیه",
         "vol": " حجم باک :76 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/fotony.png",
-        "oil":"مصرف سوخت:9.01 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:9.01 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -686,7 +689,7 @@
         "acceleration": "10.9 ثانیه",
         "vol": " حجم باک :45 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/cap.png",
-        "oil":"مصرف سوخت:5.9 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:5.9 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "0:کارخانه",
@@ -700,7 +703,7 @@
         "acceleration": "10.5 ثانیه",
         "vol": " حجم باک :66 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/vitara%20(1).png",
-        "oil":"مصرف سوخت:9.7 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:9.7 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "394,460,000:کارخانه",
@@ -714,7 +717,7 @@
         "acceleration": "12.5 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/tara.png",
-        "oil":"مصرف سوخت:7 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:7 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "490,551,000:کارخانه",
@@ -728,7 +731,7 @@
         "acceleration": "12.5 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/tara.png",
-        "oil":"مصرف سوخت:7 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:7 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "259,000,000:کارخانه",
@@ -742,7 +745,7 @@
         "acceleration": "14.1 ثانیه",
         "vol": " حجم باک :50 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/206.png",
-        "oil":"مصرف سوخت:6.4 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:6.4 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "341,138,000:کارخانه",
@@ -756,7 +759,7 @@
         "acceleration": "12 ثانیه",
         "vol": " حجم باک :60 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/elx.png",
-        "oil":"مصرف سوخت:7.49 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:7.49 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "372,475,000:کارخانه",
@@ -770,7 +773,7 @@
         "acceleration": "12.8 بنزين-13.5 گاز ثانيه  ",
         "vol": "  حجم باک : 60 بنزين-100 گاز لیتر " ,
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/elx.png",
-        "oil":"مصرف سوخت:7.49 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:7.49 لیتر در صد کیلومتر ","show" : true
 
     },{
         "kprice": "372,475,000:کارخانه",
@@ -784,7 +787,7 @@
         "acceleration": "13.8 بنزين-13.5 گاز ثانيه  ",
         "vol": "  حجم باک : 40 لیتر" ,
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/arisan.png",
-        "oil":"مصرف سوخت:8.2 لیتر در صد کیلومتر "
+        "oil":"مصرف سوخت:8.2 لیتر در صد کیلومتر ","show" : true
 
     }
 ]
