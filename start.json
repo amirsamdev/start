@@ -13,7 +13,7 @@
         "vol": "حجم باک :40 لیتر",
         "img":"https://raw.githubusercontent.com/amirsamdev/start/main/111.png",
         "oil":"مصرف سوخت : 6.4 لیتر در 100 کیلومتر",
-"show" : true
+"show" : false
     },
     {
         "kprice": "0:کارخانه",
