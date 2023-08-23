@@ -1,25 +1,46 @@
 [
 {
     "qu" : "1+1",
-    "an" : true
+"an1" :"8",
+"an2" :"4",
+"an3" :"1",
+"an4" :"2",
+ "ab1" : false,
+ "ab2" : false,
+ "ab3" : false,
+ "ab4" : true
+
+   
 },{
     "qu" : "8*8",
-    "an" : false
+    "an1" :"88",
+    "an2" :"64",
+    "an3" :"1",
+    "an4" :"36",
+     "ab1" : false,
+     "ab2" : true,
+     "ab3" : false,
+     "ab4" : false
 },{
     "qu" : "1+3",
-    "an" : false
+    "an1" :"4",
+    "an2" :"13",
+    "an3" :"31",
+    "an4" :"88",
+     "ab1" : true,
+     "ab2" : false,
+     "ab3" : false,
+     "ab4" : false
 },{
     "qu" : "9+9",
-    "an" : true
-},{
-    "qu" : "12*12",
-    "an" : false
-},{
-    "qu" : "135-135",
-    "an" : true
-},{
-    "qu" : "8*4",
-    "an" : false
+    "an1" :"81",
+    "an2" :"99",
+    "an3" :"18",
+    "an4" :"88",
+     "ab1" : true,
+     "ab2" : false,
+     "ab3" : true,
+     "ab4" : false
 }
 
 ]
