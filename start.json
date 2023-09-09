@@ -195,7 +195,7 @@
          "ab3" : false,
          "ab4" : true
     }, {
-        "qu" : " مجموعه ی حروف کلمه ی جهانگردی چند عضو دارد؟",
+        "qu" : "مجموعه ی حروف کلمه ی جهانگردی چند عضو دارد؟",
         "an1" :"6", 
         "an2" :"8",       
         "an3" :"9",
@@ -204,6 +204,107 @@
          "ab2" : true,
          "ab3" : false,
          "ab4" : false
-    }                                                 
+    },{
+        "qu" : " 3y - 9 = 12 , y=??",
+        "an1" :"6", 
+        "an2" :"12",       
+        "an3" :"7",
+        "an4" :"5",
+         "ab1" : false,
+         "ab2" : false,
+         "ab3" : true,
+         "ab4" : false
+    },
+    {
+        "qu" : "4z-7=9 , z=??",
+        "an1" :"4", 
+        "an2" :"9",       
+        "an3" :"2",
+        "an4" :"7",
+         "ab1" : true,
+         "ab2" : false,
+         "ab3" : false,
+         "ab4" : false
+    }, {
+        "qu" : "(3x-4)(5x+2)",
+        "an1" :"x + 2x² - 8", 
+        "an2" :"x² - 2x + 8",       
+        "an3" :"2x² + 2x - 8",
+        "an4" :"x² + 2x - 8",
+         "ab1" : false,
+         "ab2" : false,
+         "ab3" : false,
+         "ab4" : true
+    },{
+        "qu" : "5(x-2) = 20  , x=??",
+        "an1" :"10", 
+        "an2" :"6",       
+        "an3" :"5",
+        "an4" :"8",
+         "ab1" : false,
+         "ab2" : true,
+         "ab3" : false,
+         "ab4" : false
+    },{
+        "qu" : "4² + 3³ - (5+2)² ",
+        "an1" :"10", 
+        "an2" :"-6",       
+        "an3" :"32",
+        "an4" :"6",
+         "ab1" : false,
+         "ab2" : true,
+         "ab3" : false,
+         "ab4" : false
+    },{
+        "qu" : "3x + 7 = 16 , x=??",
+        "an1" :"10", 
+        "an2" :"-6",       
+        "an3" :"32",
+        "an4" :"3",
+         "ab1" : false,
+         "ab2" : false,
+         "ab3" : false,
+         "ab4" : true
+    },{
+        "qu" : "x² + 4x + 4 : تجزیه کنید ",
+        "an1" :"(x + 2)(x + 2)", 
+        "an2" :"(x - 2)(x + 2)",       
+        "an3" :"32",
+        "an4" :"3",
+         "ab1" : true,
+         "ab2" : false,
+         "ab3" : false,
+         "ab4" : false
+    },{
+        "qu" : "√(72) ÷ √(3)",
+        "an1" :"6", 
+        "an2" :"√6",       
+        "an3" :"36",
+        "an4" :"√3",
+         "ab1" : false,
+         "ab2" : true,
+         "ab3" : false,
+         "ab4" : false
+    },{
+        "qu" : "(x−y)²+(x+y)²",
+        "an1" :"(x²+y²)", 
+        "an2" :"2(x²+y)",       
+        "an3" :"2(x+y²)",
+        "an4" :"2(x²+y²)",
+         "ab1" : false,
+         "ab2" : false,
+         "ab3" : false,
+         "ab4" : true
+    },{
+        "qu" : "x²-36",
+        "an1" :"(x+6)²", 
+        "an2" :"(x+6)(x-6)",       
+        "an3" :"(x-6)²",
+        "an4" :"(x+6)(x-36)",
+         "ab1" : false,
+         "ab2" : true,
+         "ab3" : false,
+         "ab4" : false
+    }                                                                                                                 
     ]
     
